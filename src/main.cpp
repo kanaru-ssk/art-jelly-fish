@@ -1,5 +1,4 @@
 #include "main.h"
-//#include "app.h"
 
 // アイドル状態の処理
 void idle(void)
